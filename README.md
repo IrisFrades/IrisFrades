@@ -35,7 +35,7 @@
   
 ---
 
-## 🤖 Desarroyo móvil
+## 🤖 Desarrollo móvil
 - 🔗 [Minijuego arcade](https://github.com/IrisFrades/FradesIris_MiniJocArcadeMobile)  
   Juego arcade de bob esponja hecho en Unity
   
