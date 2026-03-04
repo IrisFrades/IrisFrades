@@ -20,15 +20,10 @@
 ---
 
 ## 🌐 PSP + SPG
-- 🔗 [Ecommerce React](https://github.com/usuario/ecommerce-react)  
-  Tienda online con carrito de compras
-
-- 🔗 [Landing Page](https://github.com/usuario/landing-page)  
-  Diseño responsive moderno
 
 ---
 
-## 🤖 Desarroyo interfícies
+## 🤖 Desarrollo interfícies
 - 🔗 [Vuforia](https://github.com/IrisFrades/FradesIris_Vuforia)  
   Taller de vuforia para ver personajes a traves del movil con QR
 
