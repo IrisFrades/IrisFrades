@@ -32,6 +32,9 @@
 
 - 🔗 [Canvas, Botones y Event System](https://github.com/IrisFrades/UF1_ACT1_IrisFrades)  
   Escena donde se simulará el feedback por GUI de la salud de un personaje de un juego (quitar vida, aumentar vida, matarlo, revivirlo)
+
+- 🔗 [UI Mask + Render Texture + Tipografia](https://github.com/IrisFrades/FradesIris_UIMask_RenderTexture_Tipografia.git)  
+  Actividad de UI Mask + Render Texture + Tipografia en Unity
   
 ---
 
