@@ -20,6 +20,8 @@
 ---
 
 ## 🌐 PSP + SPG
+- 🔗 [Videojuego](https://github.com/IrisFrades/UF1_ACT1_IrisFrades.git)  
+  Recreación del videojuego Commando Commodore 64
 
 ---
 
@@ -33,6 +35,12 @@
 - 🔗 [Canvas, Botones y Event System](https://github.com/IrisFrades/UF1_ACT1_IrisFrades)  
   Escena donde se simulará el feedback por GUI de la salud de un personaje de un juego (quitar vida, aumentar vida, matarlo, revivirlo)
 
+- 🔗 [UI Mask + Render Texture + Tipografia](https://github.com/IrisFrades/FradesIris_UIMask_RenderTexture_Tipografia.git)  
+  Actividad de UI Mask + Render Texture + Tipografia en Unity
+
+- 🔗 [Editor de Windows](https://github.com/IrisFrades/EditorWindows_FradesIris)  
+  Actividad de editor de windows en Unity
+  
 - 🔗 [UI Mask + Render Texture + Tipografia](https://github.com/IrisFrades/FradesIris_UIMask_RenderTexture_Tipografia.git)  
   Actividad de UI Mask + Render Texture + Tipografia en Unity
   
@@ -53,6 +61,21 @@
 
 - 🔗 [Android Studio](https://github.com/IrisFrades/Login_Register_FradesIris)  
   Cambio de pantallas con actividades dentro
+  
+- 🔗 [Android Studio](https://github.com/GerardBlasco/AndroidStudio_PianoTime)  
+  Piano
+  
+- 🔗 [Android Studio](https://github.com/IrisFrades/Retrofit_AndroidStudio_FradesIris)  
+  Retrofit
+  
+- 🔗 [Android Studio](https://github.com/IrisFrades/FradesIris_AndroidStudio_AsyncronSounds)  
+  Asyncron Sounds
+  
+- 🔗 [Android Studio](https://github.com/IrisFrades/ACT20_SimpleCoroutines_FradesIris)  
+  Coroutinas
+
+- 🔗 [Android Studio](https://github.com/IrisFrades/Botiga_AndroidStudio_FradesIris)  
+  Simulador de tienda 
 
 ---
 
